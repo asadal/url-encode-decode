@@ -1,3 +1,3 @@
 # Simple URL Encoder & Decoder
 
-https://url-cript.streamlit.app
+https://url-crypt.streamlit.app
