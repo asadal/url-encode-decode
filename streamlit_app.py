@@ -24,7 +24,7 @@ def app():
     st.markdown("Input URL to encode or decode.")
 
     url_type = st.radio(
-        "Select URL type",
+        "Select your work:",
         ["Encode", "Decode"],
         index=None,
     )
